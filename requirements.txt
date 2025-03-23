@@ -9,3 +9,6 @@ streamlit
 plotly
 nbformat
 lightgbm
+mlflow
+scikit-optimize 
+bayesian-optimization
