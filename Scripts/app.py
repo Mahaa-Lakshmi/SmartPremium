@@ -14,14 +14,14 @@ warnings.filterwarnings("ignore")
 #print(sklearn.__version__) 
 
 # Load trained model
-model = pickle.load(open("E:/AI engineer/Guvi/Capstone Projects/Project3/fresh_clone/SmartPremium/models/best_model.pkl", "rb"))
+model = pickle.load(open("../models/best_model.pkl", "rb"))
 
 # Load scaler & encoders
-scaler = pickle.load(open("E:/AI engineer/Guvi/Capstone Projects/Project3/fresh_clone/SmartPremium/models/scaler.pkl", "rb"))
-encoders = pickle.load(open("E:/AI engineer/Guvi/Capstone Projects/Project3/fresh_clone/SmartPremium/models/label_encoders.pkl", "rb"))
-income_lambda,premium_lambda = pickle.load(open("E:/AI engineer/Guvi/Capstone Projects/Project3/fresh_clone/SmartPremium/models/boxcox_lambdas.pkl", "rb"))  # (income_lambda, premium_lambda)
+scaler = pickle.load(open("../models/scaler.pkl", "rb"))
+encoders = pickle.load(open("../models/label_encoders.pkl", "rb"))
+income_lambda,premium_lambda = pickle.load(open("../models/boxcox_lambdas.pkl", "rb"))  # (income_lambda, premium_lambda)
 
-scale_factor = pickle.load(open("E:/AI engineer/Guvi/Capstone Projects/Project3/fresh_clone/SmartPremium/models/scale_factor.pkl", "rb"))
+scale_factor = pickle.load(open("../models/scale_factor.pkl", "rb"))
 
 
 #print("Premium Lambda:", premium_lambda)
