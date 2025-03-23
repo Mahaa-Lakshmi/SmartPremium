@@ -164,7 +164,6 @@ bayesian-optimization
 ## **📌 Future Improvements**
 - Improve feature engineering for better accuracy
 - Implement deep learning models for better performance
-- Deploy model using Flask/FastAPI for API-based predictions
 - Add AutoML techniques for hyperparameter tuning
 
 ## **💡 Conclusion**
