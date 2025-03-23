@@ -36,6 +36,10 @@ It is built using **Python, Scikit-Learn, XGBoost, Bayesian Optimization, MLflow
 - Enter **customer details** to predict **insurance premium**  
 - Upload a **CSV file** with customer data to get **bulk predictions**  
 
+✅ **Link for Deployed Streamlit app for Predictions** 
+
+- [Deployed App](https://mahaalakshmi-smartpremium.streamlit.app/ "Visit Smart Premium App")
+
 ---
 
 ## **🚀 Getting Started**
