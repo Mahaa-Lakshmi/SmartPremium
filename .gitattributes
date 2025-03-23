@@ -1,5 +1,7 @@
 data/train.csv filter=lfs diff=lfs merge=lfs -text
 data/test.csv filter=lfs diff=lfs merge=lfs -text
+data/output/predicted_premiums.csv filter=lfs diff=lfs merge=lfs -text
 notebooks/preprocessing.ipynb filter=lfs diff=lfs merge=lfs -text
 notebooks/EDA.ipynb filter=lfs diff=lfs merge=lfs -text
 notebooks/modelAnalysis.ipynb filter=lfs diff=lfs merge=lfs -text
+models/*.pkl filter=lfs diff=lfs merge=lfs -text

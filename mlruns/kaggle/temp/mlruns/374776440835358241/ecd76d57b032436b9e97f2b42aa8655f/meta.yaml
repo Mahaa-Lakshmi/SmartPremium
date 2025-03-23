@@ -1,0 +1,15 @@
+artifact_uri: file:///kaggle/temp/mlruns/374776440835358241/ecd76d57b032436b9e97f2b42aa8655f/artifacts
+end_time: 1742743800873
+entry_point_name: ''
+experiment_id: '374776440835358241'
+lifecycle_stage: active
+run_id: ecd76d57b032436b9e97f2b42aa8655f
+run_name: Random Forest
+run_uuid: ecd76d57b032436b9e97f2b42aa8655f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742743550925
+status: 3
+tags: []
+user_id: root

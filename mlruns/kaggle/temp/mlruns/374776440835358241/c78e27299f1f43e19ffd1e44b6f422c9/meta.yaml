@@ -1,0 +1,15 @@
+artifact_uri: file:///kaggle/temp/mlruns/374776440835358241/c78e27299f1f43e19ffd1e44b6f422c9/artifacts
+end_time: 1742743536687
+entry_point_name: ''
+experiment_id: '374776440835358241'
+lifecycle_stage: active
+run_id: c78e27299f1f43e19ffd1e44b6f422c9
+run_name: Linear Regression
+run_uuid: c78e27299f1f43e19ffd1e44b6f422c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742743521619
+status: 3
+tags: []
+user_id: root

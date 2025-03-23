@@ -1,0 +1,15 @@
+artifact_uri: file:///kaggle/temp/mlruns/374776440835358241/b0e8f231aac8483a8703a217c9196120/artifacts
+end_time: 1742743545740
+entry_point_name: ''
+experiment_id: '374776440835358241'
+lifecycle_stage: active
+run_id: b0e8f231aac8483a8703a217c9196120
+run_name: Decision Tree
+run_uuid: b0e8f231aac8483a8703a217c9196120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742743536689
+status: 3
+tags: []
+user_id: root
